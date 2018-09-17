@@ -1,0 +1,7 @@
+/*
+This command will disable your daily reboot
+*/
+
+config system global
+set daily-restart disable
+end
